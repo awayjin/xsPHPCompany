@@ -1,0 +1,12 @@
+[20-Mar-2013 17:50:41] PHP Notice:  Use of undefined constant AAAA - assumed 'AAAA' in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 16
+[20-Mar-2013 17:50:41] PHP Notice:  Undefined variable: var in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 22
+[20-Mar-2013 17:50:41] PHP Warning:  Wrong parameter count for gettype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 26
+[20-Mar-2013 17:50:41] PHP Fatal error:  Call to undefined function get_ttype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 30
+[20-Mar-2013 17:52:39] PHP Notice:  Use of undefined constant AAAA - assumed 'AAAA' in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 16
+[20-Mar-2013 17:52:39] PHP Notice:  Undefined variable: var in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 22
+[20-Mar-2013 17:52:39] PHP Warning:  Wrong parameter count for gettype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 26
+[20-Mar-2013 17:52:39] PHP Fatal error:  Call to undefined function get_ttype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 30
+[20-Mar-2013 17:52:44] PHP Notice:  Use of undefined constant AAAA - assumed 'AAAA' in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 16
+[20-Mar-2013 17:52:44] PHP Notice:  Undefined variable: var in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 22
+[20-Mar-2013 17:52:44] PHP Warning:  Wrong parameter count for gettype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 26
+[20-Mar-2013 17:52:44] PHP Fatal error:  Call to undefined function get_ttype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 30

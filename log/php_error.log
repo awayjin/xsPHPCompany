@@ -1,0 +1,7 @@
+[21-Mar-2013 16:05:40] PHP Notice:  Undefined variable: var in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 22
+[21-Mar-2013 16:05:40] PHP Warning:  Wrong parameter count for gettype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 26
+[21-Mar-2013 16:05:40] PHP Fatal error:  Call to undefined function get_ttype() in E:\AppServ\www\xs_php\10commonly_use\01errors.php on line 30
+搞砸了[21-Mar-2013 17:06:12] 搞砸了
+[21-Mar-2013 17:06:26] 搞砸了
+[21-Mar-2013 17:07:05] 搞砸了
+[21-Mar-2013 17:07:44] 搞砸了
